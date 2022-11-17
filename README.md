@@ -219,10 +219,10 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   + [Contributing](docs/CONTRIBUTING.md)
   + [How-to](docs/HOWTO.md)
 + ... *[More languages](docs/README.md#translations)* ...
++⚠️ You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help The community out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)? or if you are lazy like i am just share it with others :shipit: 
 ### Programming Playgrounds
-+ [Free Programming Online](/(0Y0)Free-programming-online.md)
-+ 
-You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help The community out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)? or if you are lazy like i am just share it with others :shipit: 
++ 👨🏾‍💻 [Free Programming Online](/(0Y0)Free-programming-online.md) 💻
+
 
 
 ## License
