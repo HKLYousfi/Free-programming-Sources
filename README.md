@@ -227,4 +227,5 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 
 ## License
 
-Each file included in this repository is licensed under the [CC BY License](LICENSE).
+Each file included in this repository is licensed under the [CC BY License](LICENSE). Youn may notice from time 2 time some of changes or shortcuts to help the community to find the easiest way to learn faster [0Y0] 
+### HKL 
